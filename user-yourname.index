@@ -3,11 +3,11 @@
 	<info>
 		<name>Your Content</name>
 		<update version="1.0.0">
-			<file name="user-yourname.index" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index" />
+			<file name="user-yourname.index" url="https://raw.https://github.com/MKCNelis/DND-with-the-boys/blob/master/user-yourname.index" />
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file1.xml" />
-		<file name="file2.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file2.xml" />
+		<file name="file1.xml" url="https://raw.https://github.com/MKCNelis/DND-with-the-boys/blob/master/user-yourname/file1.xml" />
+		<file name="file2.xml" url="https://raw.https://github.com/MKCNelis/DND-with-the-boys/blob/master/user-yourname/file1.xm2" />
 	</files>
 </index>
