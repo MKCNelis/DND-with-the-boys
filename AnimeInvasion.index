@@ -3,11 +3,11 @@
 	<info>
 		<name>Your Content</name>
 		<update version="1.0.0">
-			<file name="user-yourname.index" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/user-yourname.index" />
+			<file name="user-yourname.index" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/AnimeInvasion.index" />
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/user-yourname/file1.xml" />
-		<file name="file2.xml" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/user-yourname/file1.xm2" />
+		<file name="Companions.xml" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/AnimeInvasion/AnimeInvasion/Companions.xml" />
+		<file name="Items.xml" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/AnimeInvasion/Items.xml" />
 	</files>
 </index>

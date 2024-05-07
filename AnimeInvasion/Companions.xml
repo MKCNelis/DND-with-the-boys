@@ -3,7 +3,7 @@
 	<info>
 		<name>Companions</name>
 		<update version="1.0.0">
-			<file name="file1.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file1.xml" />
+			<file name="Companions.xml" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/AnimeInvasion/AnimeInvasion/Companions.xml" />
 		</update>
 	</info>
 	

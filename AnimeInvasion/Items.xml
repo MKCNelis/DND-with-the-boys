@@ -3,8 +3,7 @@
 	<info>
 		<name>File 2</name>
 		<update version="1.0.0">
-			<file name="file2.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file2.xml" />
-		</update>
+<file name="Items.xml" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/AnimeInvasion/Items.xml" />		</update>
 	</info>
 	
 	<!-- place your elements here -->
