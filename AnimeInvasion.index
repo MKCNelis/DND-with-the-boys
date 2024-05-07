@@ -7,7 +7,13 @@
 		</update>
 	</info>
 	<files>
-		<file name="Companions.xml" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/AnimeInvasion/AnimeInvasion/Companions.xml" />
+			<!--DND-with-the-boys-->
+			
+			<!--Races-->
+			<File	name="Ryujin.xml" url="https://github.com/MKCNelis/DND-with-the-boys/blob/master/AnimeInvasion/Races/Ryujin.xml"/>
+			<!--end_Races-->
+
+		<file name="Companions.xml" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/AnimeInvasion/Companions.xml" />
 		<file name="Items.xml" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/AnimeInvasion/Items.xml" />
 	</files>
 </index>
