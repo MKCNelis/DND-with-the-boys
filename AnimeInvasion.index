@@ -3,7 +3,7 @@
 	<info>
 		<name>Your Content</name>
 		<update version="1.0.0">
-			<file name="user-yourname.index" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/AnimeInvasion.index" />
+			<file name="AnimeInvasion.index" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/AnimeInvasion.index" />
 		</update>
 	</info>
 	<files>
