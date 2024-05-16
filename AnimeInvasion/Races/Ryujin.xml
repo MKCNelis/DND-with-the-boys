@@ -3,9 +3,8 @@
 	<info>
 		<name>Ryujin</name>
 		<description></description>
-		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/guildmasters-guide-ravnica""Anime_Invasion</author>
 		<update version="0.0.4">
-			<file name="Ryujin.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/guildmasters-guide-to-ravnica/races/Ryujin.xml" />
+			<file name="Ryujin.xml" url="https://raw.githubusercontent.com/MKCNelis/DND-with-the-boys/master/AnimeInvasion/AnimeInvasion/Races/Ryujin.xml" />
 		</update>
 	</info>
 	
@@ -22,11 +21,11 @@ mountainous have rougher scales an have a hard spike end of their tail.
 aerial have some feathers on different parts of the arms and legs between their scales their tail is thin an en a fluffy feathery end.Feathers/scales cover their limbs. Their scales typically denotes membership in a lineage. Males are brightly coloured, with scales of aquamarine, Platina green, or terracotta and small 5/6 pronged antlers. Females are brightly coloured, with scales of Yaleblue/sky blue, bamboo green/wasabi green, or sand yellow/golden and small 3 pronged antlers. only the males shed their antlers which is hilarious because of the bald spots in their hair.</p>
 			<h4>AFFINITY FOR NATURE</h4>
 			<p>Ryujins have an affinity for the natural world. Among the guilds that share that affinity, Ryujins favor the rubblebelts of the Gruul Clans and the wide plazas of the Selesnya Conclave over the undercity tunnels of the Golgari and the laboratories of the Simic.</p>
-			<p class="indent">Ryujins celebrate life and growth, and the birth of a foal is always cause for festivities. At the same time, they revere the traditions of the past, and among both the Gruul and the Selesnya they are voices of memory and history, preserving old ways and keeping alive the legends of ancestral heroes. They feel a close kinship with wild animals, perhaps because of their own horselike bodies, and delight in the feeling of running alongside herds and packs of other beasts.</p>
+			<p class="indent">Ryujins celebrate life and growth, and the birth of a hachlings is always cause for festivities. At the same time, they revere the traditions of the past, and among both the Gruul and the Selesnya they are voices of memory and history, preserving old ways and keeping alive the legends of ancestral heroes. They feel a close kinship with wild animals, perhaps because of their own horselike bodies, and delight in the feeling of running alongside herds and packs of other beasts.</p>
 			<h4>CLANS AND COMMUNITY</h4>
 			<p>Ryujins sense the interconnectedness of the natural world. Thus, they celebrate family and community as microcosms of that greater connection. Among the Gruul, they have a strong clan identity, and Selesnya Ryujins are fiercely loyal to their individual communities as well as the guild as a whole. Their love of history and tradition also means that Ryujins are more likely than most other Ravnicans to join the same guild that their parents did.</p>
 			<h4>Ryujin NAMES</h4>
-			<p>Ryujins’ given names are passed down through family lines. The name bestowed on a new foal is typically the name of the most recently deceased family member of the same gender, keeping a live the memory—and, the Ryujins believe, some shard of the spirit—of the departed. Ryujins don’t use family names, but they wear symbols that represent their family membership. These symbols might include graphical representations of plants or animals, printed mottoes, braids and beads worn in the hair and tail, or even specific patterns of woven fabric.</p>
+			<p>Ryujins’ given names are passed down through family lines. The name bestowed on a new hachlings is typically the name of the most recently deceased family member of the same gender, keeping a live the memory—and, the Ryujins believe, some shard of the spirit—of the departed. Ryujins don’t use family names, but they wear symbols that represent their family membership. These symbols might include graphical representations of plants or animals, printed mottoes, braids and beads worn in the hair and tail, or even specific patterns of woven fabric.</p>
 			<p><strong>Male Names:</strong> Bonmod, Boruvo, Chodi, Drozan, Kozim, Milosh, Ninos, Oleksi, Orval, Radovas, Radom, Rostis, Svetyos, Tomis, Trijiro, Volim, Vlodim, Yarog<br/>
 			<strong>Female Names:</strong> Daiva, Dunja, Elnaya, Galisnya, lrinya, Kotyali, Lalya, Litisia, Madya, Mira, Nedja, Nikya, Ostani, Pinya, Rada, Raisya, Stasolya, Tatna, Zhendoya, Zoria</p>
 			<h4>Ryujin TRAITS</h4>
@@ -43,7 +42,7 @@ aerial have some feathers on different parts of the arms and legs between their 
 			<p class="indent"><strong><em>Draconic.</em></strong> Your creature type is draconic, rather than humanoid.</p>
 			<p class="indent"><strong><em>Charge.</em></strong> If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves.</p>
 			<p class="indent"><strong><em>Hooves.</em></strong> Your hooves are natural melee weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p>
-			<p class="indent"><strong><em>Equine Build.</em></strong> You count as one size larger when determining your carrying capacity and the weight you can push or drag.</p>
+			<p class="indent"><strong><em>Draconic (Lung) lineage.</em></strong> You count as one size larger when determining your carrying capacity and the weight you can push or drag.</p>
 			<p class="indent">In addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.</p>
 			<p class="indent"><strong><em>Survivor.</em></strong> You have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival.</p>
 			<p class="indent"><strong><em>Languages.</em></strong> You can speak, read, and write Common and Sylvan. Sylvan is widely spoken in the Selesnya Conclave, for it is rich in vocabulary to describe natural phenomena and spiritual forces.</p>	
@@ -66,7 +65,7 @@ aerial have some feathers on different parts of the arms and legs between their 
 			<grant type="Racial Trait" id="ID_ANI_Invasion_Ryujin_DRACONIC" />
 			<grant type="Racial Trait" id="ID_ANI_Invasion_Ryujin_CHARGE" />
 			<grant type="Racial Trait" id="ID_ANI_Invasion_Ryujin_HOOVES" />
-			<grant type="Racial Trait" id="ID_ANI_Invasion_Ryujin_EQUINE_BUILD" />
+			<grant type="Racial Trait" id="ID_ANI_Invasion_Ryujin_SCALES_AND_ANTLERS" />
 			<grant type="Racial Trait" id="ID_ANI_Invasion_Ryujin_SURVIVOR" />
 		</rules>
 	</element>	
@@ -94,10 +93,13 @@ aerial have some feathers on different parts of the arms and legs between their 
 			<description>Tail is  natural weapons, which you can use to make unarmed strikes, which you can use to make unarmed strikes. If you hit with them, you deal 1d4+{{strength:modifier}} bludgeoning damage.</description>
 		</sheet>
 	</element>
-	<element name="Equine Build" type="Racial Trait" source="Anime_Invasion" id="ID_ANI_Invasion_Ryujin_EQUINE_BUILD">
+	<element name="scales and antlers" type="Racial Trait" source="Anime_Invasion" id="ID_ANI_Invasion_Ryujin_EQUINE_BUILD">
 		<description>
-			<p>You count as one size larger when determining your carrying capacity and the weight you can push or drag.</p>
-			<p class="indent">In addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet, instead of the normal 1 extra foot.</p>
+			<p>From first viewing the look human with antlers. Only when they come closer you see their draconic traits. like their scales arms and legs sharp clawlike nails. tail wise every variant has its own quirk.</p>
+			<p class="indent"> aquatic are smoother scales and have a thicker flatter tail more croc like.
+								mountainous have rougher scales an have a hard spike end of their tail.
+								aerial have some feathers on different parts of the arms and legs between their scales their tail is thin an en a fluffy feathery end.</p>
+								<p>Feathers/scales cover their limbs. Their scales typically denotes membership in a lineage. Males are brightly coloured, with scales of aquamarine, Platina green, or terracotta and small 5/6 pronged antlers. Females are brightly coloured, with scales of Yaleblue/sky blue, bamboo green/wasabi green, or sand yellow/golden and small 3 pronged antlers. only the males shed their antlers which is hilarious because of the bald spots in their hair.</p>
 		</description>
 		<sheet>
 			<description>You count as one size larger when determining your carrying capacity and the weight you can push or drag.
