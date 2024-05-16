@@ -59,5 +59,56 @@
 			<description>Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.</description>
 		</sheet>
 	</element>
+	<element name="Tressym" type="Companion" source="Player’s Handbook" id="ID_WOTC_PHB_COMPANION_Tressym">
+		<supports>Familiar</supports>
+		<description />
+		<setters>
+			<set name="strength">3</set>
+			<set name="dexterity">15</set>
+			<set name="constitution">10</set>
+			<set name="intelligence">11</set>
+			<set name="wisdom">12</set>
+			<set name="charisma">7</set>
+			<set name="ac">12</set>
+			<set name="hp">2 (1d4)</set>
+			<set name="speed">40 ft., climb 30 ft.</set>
+			<set name="languages">Understands common but can't speak it</set>
+			<set name="skills">Perception +3, Stealth +4</set>
+			<set name="type">Beast</set>
+			<set name="size">Tiny</set>
+			<set name="alignment">unaligned</set>
+			<set name="challenge">0</set>
+			<set name="traits">ID_WOTC_PHB_COMPANION_TRAIT_CAT_KEEN_SMELL</set>
+			<set name="actions">ID_WOTC_PHB_COMPANION_ACTION_CAT_CLAWS</set>
+		</setters>
+		<rules>
+			<stat name="companion:ac" value="12" />
+			<stat name="companion:hp:max" value="2" bonus="base" />
+			<stat name="companion:speed" value="40" bonus="base" />
+			<stat name="companion:speed:climb" value="30" bonus="base" />
+			<stat name="companion:perception:proficiency" value="companion:proficiency" bonus="base" />
+			<stat name="companion:stealth:proficiency" value="companion:proficiency" bonus="base" />
+		</rules>
+	</element>
+	<element name="Keen Smell" type="Companion Trait" source="Player’s Handbook" id="ID_WOTC_PHB_COMPANION_TRAIT_CAT_KEEN_SMELL">
+		<description>
+			<p>The cat has advantage on Wisdom (Perception) checks that rely on smell.</p>
+		</description>
+		<sheet>
+			<description>The cat has advantage on Wisdom (Perception) checks that rely on smell.</description>
+		</sheet>
+	</element>
+	<element name="Claws" type="Companion Action" source="Player’s Handbook" id="ID_WOTC_PHB_COMPANION_ACTION_CAT_CLAWS">
+		<description>
+			<p>Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.</p>
+			<p>Multiattack. The raiju makes three attacks, one with its bite and two with its claws. The raiju may instead choose to use bolt travel instead of it making two claw attacks.</p>
+			<p>Bite. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 11 2d6+6 piercing damage plus 5 1d8 lightning damage.</p>
+			<p>Claws. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 2d8+6 piercing damage plus 5 1d8 lightning damage.</p>
+			<p>Moving Bolt (Recharge 6). The raiju may transform into a bolt of lightning and instantly move in a strait line to a spot it can see within 60 ft. This movement acts as a lightning bolt spell, and each creature in the path must make a DC 16 Dexterity saving throw, taking 28 4d6 lightning damage on a failed save, or half as much damage on a successful one</p>
+		</description>
+		<sheet>
+			<description>Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.</description>
+		</sheet>
+	</element>
 	
 </elements>
